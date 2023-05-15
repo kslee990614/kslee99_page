@@ -21,8 +21,8 @@ I am a M.S student in The Graduate school of Advanced Imaging Science, Multimedi
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
-  <a href="https://wwwe.sogang.ac.kr/wwwe/index_new.html">Sogang University</a>, Seoul, Korea
-  <sup>2014.03 - 2018.02</sup>
+  <a href="https://www.eulji.ac.kr/">Eulji University</a>, Seong-Nam, Korea
+  <sup>2019.03 - 2023.02</sup>
 </h4>
 
 - B.S. in [Medical IT]
