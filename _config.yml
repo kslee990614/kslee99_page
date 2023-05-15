@@ -4,13 +4,16 @@ face: /assets/img/kslee.jpeg
 #cv: https://drive.google.com/file/d/1DuI0Hul1Un-4AemKeqcZ9rYBJHxw163N/view?usp=sharing
 description: M.S student in GASIM at Chung Ang University
 location: Seoul, Korea
+#cv: /assets/cv.pdf
 email: kslee99 AT vision.snu.ac.kr
 homepage: https://kslee990614.github.io/kslee99_page/
 #twitter:
 github: https://github.com/kslee990614
+#google_analytics: UA-146496389-1
 linkedin: https://www.linkedin.com/in/kyo-seok-lee-4616b9276/
 theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=N39QVlcAAAAJ&hl=ko
+#semantic_scholar: https://www.semanticscholar.org/author/Minjung-Kim/2109022768
 
 plugins:
   - jekyll-seo-tag
